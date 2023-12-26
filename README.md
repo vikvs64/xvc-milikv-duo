@@ -11,7 +11,7 @@ Port for MilkV-Duo RISC-V [board](https://milkv.io/duo) based on Xilinx XAPP1251
 1. Copy executible file to the MilkV board by scp: make scp
 1. start application and enjoy!
    
-## How to build image and boot
+## How to get Linux image for MilkV-Duo and boot
 
 See instruction here [https://milkv.io/docs/duo/getting-started/boot](https://milkv.io/docs/duo/getting-started/boot)
 
